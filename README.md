@@ -1,8 +1,6 @@
 # MyDotfile
-- This dotfile is personal use :)
-- work on Hyprland
-- Base on End-4 dotfile
-- i'm a linux noob
+- i'm a linux noob so basically, This dotfile is personal use :)
+- Base on End-4 dotfile ,working on hyprland
 - this dotfile doesn't anything unless ternimal and a little bit thing
 
 # Install
