@@ -14,5 +14,5 @@ too lazy :D
 # Gallery
 
 ![image](https://github.com/user-attachments/assets/d7ec14f9-eb87-4ad0-a44b-84f8639ea177)
-![image](https://github.com/user-attachments/assets/7b691c90-5917-4821-ac1e-bae5d6bf624e)
+![image](https://github.com/user-attachments/assets/5045f724-6ee2-4027-9455-c85f87ade32b)
 ![image](https://github.com/user-attachments/assets/eb9ae93d-1cc1-4b93-99e6-514e24d47c5c)
