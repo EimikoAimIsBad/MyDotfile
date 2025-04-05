@@ -12,3 +12,6 @@ git clone https://github.com/EimikoAimIsBad/MyDotfile.git
 ```  
 
 too lazy 
+
+#Gallery
+![image](https://github.com/user-attachments/assets/7b691c90-5917-4821-ac1e-bae5d6bf624e)
