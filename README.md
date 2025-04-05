@@ -1,7 +1,7 @@
 # MyDotfile
 - i'm a linux noob so basically, This dotfile is personal use :)
 - Base on End-4 dotfile ,working on hyprland
-- this dotfile doesn't anything unless ternimal and a little bit thing
+- this dotfile doesn't do anything unless ternimal and some software theme
 
 # Install
 ```
